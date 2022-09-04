@@ -33,7 +33,7 @@ export let data
       <div
         class="relative mb-6 overflow-hidden bg-no-repeat bg-cover rounded-lg shadow-lg ripple"
         data-mdb-ripple="true" data-mdb-ripple-color="light">
-        <img src="https://mdbootstrap.com/img/new/slides/100.jpg" class="w-full" />
+        <img src="https://mdbootstrap.com/img/new/slides/100.jpg" class="w-full"/>
         <a href={post.path}>
           <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden transition duration-300 ease-in-out bg-fixed opacity-0 hover:opacity-100"
             style="background-color: rgba(251, 251, 251, 0.15)"></div>
