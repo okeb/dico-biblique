@@ -215,7 +215,7 @@
         <a href="/contact" class="text-base font-medium text-gray-500 hover:text-gray-900 dark:hover:text-white"> Contactez-nous</a>
       </nav>
       <div class="items-center justify-end hidden md:flex md:flex-1 lg:w-0">
-        <a href="#" class="text-base font-medium text-gray-500 whitespace-nowrap hover:text-gray-900 dark:hover:text-white"> Connexion </a>
+        <a href="/connexion" class="text-base font-medium text-gray-500 whitespace-nowrap hover:text-gray-900 dark:hover:text-white"> Connexion </a>
         <a href="#newsletter" class="inline-flex items-center justify-center px-4 py-2 ml-8 text-base font-medium text-white bg-yellow-600 border border-transparent rounded-md shadow-sm whitespace-nowrap hover:bg-indigo-700"> Newsletter </a>
       </div>
     </div>
